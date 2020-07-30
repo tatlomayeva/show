@@ -8,7 +8,6 @@
 
 Изображения вставлять с помощью
 [Image](src)
-![Branching]{template_img.jpg)
+![Branching](template_img.jpg)
 а ссылки
 [Link](url)
-![Branching]
